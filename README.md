@@ -3,7 +3,7 @@
 
 本项目旨在尝试复刻项目morphex，原作者视频主页如下：https://www.youtube.com/@ZentaRobotics
 
-3D打印可转至makerworld，已切片，方便打印
+3D模型文件请使用solidworks 2024及以上版本打开，钣金件所需数目已在文件名标注，3D打印可转至makerworld，已切片，方便打印
 
 PCB工程请转至嘉立创EDA
 
