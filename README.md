@@ -1,4 +1,6 @@
 # ZGPS_01
 一种可在球形和六足形态切换的可变形机器人设计与开发
 
-本项目旨在复刻项目morphex，原作者视频主页如下：https://www.youtube.com/@ZentaRobotics
+本项目旨在尝试复刻项目morphex，原作者视频主页如下：https://www.youtube.com/@ZentaRobotics
+
+本项目在STM32CUBEIDE开发，完成机械结构重新设计建模，并完成硬件电路设计。由于本人初次独立完成完整项目，时间仓促，仅完成机器人的基本功能，所以本项目只能保证机器人能动。
