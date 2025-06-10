@@ -1,7 +1,7 @@
 # ZGPS_01
 一种可在球形和六足形态切换的可变形机器人设计与开发
 
-本项目旨在尝试复刻项目morphex，原作者视频主页如下：https://www.youtube.com/@ZentaRobotics
+本项目旨在尝试复刻项目MorpHex，原作者ZentaRobotics视频主页如下：https://www.youtube.com/@ZentaRobotics
 
 3D模型文件请使用solidworks 2024及以上版本打开，钣金件所需数目已在文件名标注，3D打印可转至makerworld，已切片，方便打印
 
