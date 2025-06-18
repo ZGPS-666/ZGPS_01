@@ -38,7 +38,7 @@ https://github.com/ZGPS-666/ZGPS_01
 ## 原理解析（硬件说明）
 本项目由以下核心部分组成：主控制系统、驱动系统、变形机构、通信系统和供电系统。
 
-![Uploading image.png…]()
+
 
 
 
@@ -54,7 +54,7 @@ https://github.com/ZGPS-666/ZGPS_01
 
 ## 软件代码
 
-![image.png](https://image.lceda.cn/oshwhub/pullImage/8a0f1e3f95884f4bb09dbf80bd9bd02a.png)
+
 完整代码请参考：(https://github.com/ZGPS-666/ZGPS_01)
 
 
@@ -71,11 +71,11 @@ https://github.com/ZGPS-666/ZGPS_01
 
 ## 实物图
 图1：**六足形态** - 机器人完全展开的六足行走状态
-![屏幕截图 2025-05-17 185659.png](https://image.lceda.cn/oshwhub/pullImage/23b69bb8f17d45d5b7682d24850e288d.png)
+
 图2：**球形态** - 机器人收缩后的球形滚动状态  
-![屏幕截图 2025-05-17 191125.png](https://image.lceda.cn/oshwhub/pullImage/7345970809f04383a69e5dd5dc48b5dd.png)
+
 图3：**展示模式** - 从六足向球形转换的中间状态
-![IMG_20250618_182841.jpg](https://image.lceda.cn/oshwhub/pullImage/f181becc85a743ad87241c5870879bfa.jpg)
+
 
 ## 声明
 由于本人水平有限，初次独立完成完整项目，时间仓促，仅完成机器人的基本功能，代码已有堆史山的趋势，所以本项目只能保证机器人能动。
