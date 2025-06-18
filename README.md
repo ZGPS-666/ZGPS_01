@@ -71,7 +71,7 @@ https://github.com/ZGPS-666/ZGPS_01
 ![系统框图](images/IMG_20250521_183855_compressed.jpg)  
 
 图2：**球形态** - 机器人收缩后的球形滚动状态  
-![系统框图](images/2025-05-17_191125.png)  
+![系统框图](images/mo1.png)  
 
 图3：**展示模式** - 从六足向球形转换的中间状态
 ![系统框图](images/IMG_20250618_182841.jpg)  
