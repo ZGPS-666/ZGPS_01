@@ -38,7 +38,8 @@ https://github.com/ZGPS-666/ZGPS_01
 ## 原理解析（硬件说明）
 本项目由以下核心部分组成：主控制系统、驱动系统、变形机构、通信系统和供电系统。
 
-![image.png](https://image.lceda.cn/oshwhub/pullImage/2507012cc10c4539912488a4393441ad.png)
+![Uploading image.png…]()
+
 
 
 **主控制系统**：采用STM32F407ZGT6微控制器，168MHz主频，1M Flash + 192K SRAM，提供6个UART接口满足多舵机通信需求。集成了运动学解算、步态控制、形态切换等核心算法。
